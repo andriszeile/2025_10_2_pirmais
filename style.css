@@ -1,3 +1,14 @@
 body {
+    background-color: rgb(207, 202, 202);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.main-container {
     background-color: #f4f4f4;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
 }
